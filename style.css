@@ -68,12 +68,21 @@ a:active {
        color: white;
 }
 
-.sidebar{
+.sidebar_left{
      color: grey;
      margin-top: 75px;
      margin-left: 20px;
      padding: 20px;
      float: left;
+     font-size: 16px;
+}
+
+.sidebar_right{
+     color: grey;
+     margin-top: 75px;
+     margin-left: 20px;
+     padding: 20px;
+     float: right;
      font-size: 16px;
 }
 
