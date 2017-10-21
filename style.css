@@ -98,6 +98,11 @@ a.sidebarlink:active{
 .graphs{
   float:left;
 }
+
+.semester_class{
+        float:left;
+}
+
 .figure{
   float:left;
 }
