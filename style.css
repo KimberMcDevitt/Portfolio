@@ -38,9 +38,9 @@ a:active {
         font-weight: bold;
         color: white;
         text-align: right;
-        margin-top: 3%;
+        margin-top: 25px;
         padding: 10px;
-        margin-left:25%;
+/*         margin-left:25%; */
         float: left;
 
 }
