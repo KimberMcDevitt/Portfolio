@@ -21,7 +21,7 @@ a:active {
 
 .border{
         background-color: hsla(184, 43%, 57%, 0.75);
-        height: 25px;
+        height: 30px;
         margin:0%;
         color: white;
         padding: 5px;
@@ -39,7 +39,8 @@ a:active {
         font-weight: bold;
         color: white;
         text-align: right;
-        margin-top: 25px;
+        margin-top: 5%;
+        margin-left:15%;
         padding: 10px;
         float: left;
 
@@ -70,8 +71,8 @@ a:active {
 
 .sidebar_left{
      color: grey;
-     margin-top: 75px;
-     margin-left: 20px;
+     margin-top: 5%;
+     margin-left: 3%;
      padding: 20px;
      float: left;
      font-size: 16px;
@@ -79,8 +80,8 @@ a:active {
 
 .sidebar_right{
      color: grey;
-     margin-top: 75px;
-     margin-left: 20px;
+     margin-top: 5%;
+     margin-left: 3%;
      padding: 20px;
      float: right;
      font-size: 16px;
