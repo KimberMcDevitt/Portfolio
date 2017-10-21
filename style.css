@@ -21,7 +21,7 @@ a:active {
 
 .border{
         background-color: hsla(184, 43%, 57%, 0.75);
-        height: 75px;
+        height: 15%;
         margin:0%;
         color: white;
         padding: 5px;
@@ -30,7 +30,7 @@ a:active {
 }      
 
 .space{
-       height: 55px;
+       height: 5%;
 }
 
 .main{
@@ -87,8 +87,8 @@ a.sidebarlink:active{
 }
 
 .buffer {
-  min-height:500px;
-  min-width: 1100px;
+  min-height:75%;
+  min-width: 100%;
 }
 
 .alt-text{
