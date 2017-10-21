@@ -52,6 +52,13 @@ a:active {
        text-align:right;
 }
 
+.class_name{
+       font-size:20px;
+       font-weight:bold;
+       color: white;
+       text-align:right;
+}
+
 .quote{
        font-weight:light;
        color: white;
