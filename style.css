@@ -141,3 +141,8 @@ path {
 path:hover, path.highlighted {
   fill: #ff8000;
 }
+
+div {
+        border-style: solid;
+
+}
