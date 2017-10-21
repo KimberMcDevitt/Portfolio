@@ -96,7 +96,7 @@ a.sidebarlink:active{
 }
 
 .graphs{
-  float:left;
+  float:right;
 }
 
 .semester_class{
@@ -128,6 +128,14 @@ a.sidebarlink:active{
   height:100px;
 }
 
+.thumbs3{
+  color: white;
+  float: right;
+  padding: 60px;
+  width:50px;
+  height:750px;
+}
+
 body {
   font: 12px sans-serif;
 }
@@ -143,7 +151,7 @@ path:hover, path.highlighted {
   fill: #ff8000;
 }
 
-div {
-        border: 1px solid black;
+/* div { */
+/*         border: 1px solid Azure; */
 
-}
+/* } */
