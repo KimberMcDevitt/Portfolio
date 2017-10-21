@@ -87,7 +87,7 @@ a.sidebarlink:active{
 }
 
 .buffer {
-  min-height:75%;
+  min-height:500px;
   min-width: 100%;
 }
 
