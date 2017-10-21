@@ -34,7 +34,7 @@ a:active {
 }
 
 .main{
-        background-color: hsla(184, 43%, 57%, 0.75);
+/*         background-color: hsla(184, 43%, 57%, 0.75); */
         font-size: 20px;
         font-weight: bold;
         color: white;
