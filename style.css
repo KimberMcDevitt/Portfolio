@@ -58,7 +58,7 @@ a:active {
 }
 
 .sidebar{
-     color: Azure;
+     color: grey;
      margin-top: 75px;
      margin-left: 20px;
      padding: 20px;
@@ -67,22 +67,22 @@ a:active {
 }
 
 a.sidebarlink:link{
-  color:Azure;
+  color:grey;
   text-decoration: none;
 }
 
 a.sidebarlink:visited{
-  color:Azure;
+  color:greye;
   text-decoration: none;
 }
 
 a.sidebarlink:hover{
-  color:Azure;
+  color:grey;
   text-decoration: none;
 }
 
 a.sidebarlink:active{
-  color:Azure;
+  color:grey;
   text-decoration: none;
 }
 
