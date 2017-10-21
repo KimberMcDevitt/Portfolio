@@ -101,6 +101,7 @@ a.sidebarlink:active{
 
 .semester_class{
   float:right;
+  width: 100%;
 }
 
 .figure{
