@@ -157,6 +157,15 @@ a.sidebarlink:active{
   height:750px;
 }
 
+.thumbs4{
+  color: white;
+  float: right;
+  padding: 60px;
+  padding-right: 0px;
+  width:50px;
+  height:750px;
+}
+
 body {
   font: 12px sans-serif;
 }
