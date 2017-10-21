@@ -143,6 +143,6 @@ path:hover, path.highlighted {
 }
 
 div {
-        border-style: solid;
+        border: 1px solid black;
 
 }
