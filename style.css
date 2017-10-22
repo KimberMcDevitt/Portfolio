@@ -1,6 +1,7 @@
 .first_page{
         font-family: "Raleway", sans-serif;
-        background-color: hsla(184, 43%, 57%, 0.75);
+/*         background-color: hsla(184, 43%, 57%, 0.75); */
+        background-color: hsla(165, 210, 202, 1.0);
         margin:0%;
 }  
 a:link {
@@ -20,7 +21,8 @@ a:active {
 }
 
 .border{
-        background-color: hsla(184, 43%, 57%, 0.75);
+/*         background-color: hsla(184, 43%, 57%, 0.75); */
+        background-color: hsla(165, 210, 202, 1.0);
         height: 30px;
         margin:0%;
         color: white;
@@ -35,6 +37,7 @@ a:active {
 
 .main{
 /*         background-color: hsla(184, 43%, 57%, 0.75); */
+        background-color: hsla(165, 210, 202, 1.0);
         font-size: 20px;
         font-weight: bold;
         color: white;
@@ -48,6 +51,7 @@ a:active {
 
 .main_seeMe{
 /*         background-color: hsla(184, 43%, 57%, 0.75); */
+        background-color: hsla(165, 210, 202, 1.0);
         font-size: 20px;
         font-weight: bold;
         color: white;
@@ -121,7 +125,8 @@ a.sidebarlink:active{
 }
 
 .buffer {
-/*    background-color: hsla(184, 43%, 57%, 0.75); */
+/*         background-color: hsla(184, 43%, 57%, 0.75); */
+        background-color: hsla(165, 210, 202, 1.0);
   min-height:2000px;
   min-width: 1000px; 
 /*   height:auto;
@@ -131,7 +136,8 @@ a.sidebarlink:active{
 }
 
 .buffer_seeMe {
-/*    background-color: hsla(184, 43%, 57%, 0.75); */
+/*         background-color: hsla(184, 43%, 57%, 0.75); */
+        background-color: hsla(165, 210, 202, 1.0);
   min-height:2000px;
   min-width: 1000px; 
 /*   height:auto;
