@@ -1,7 +1,10 @@
+
 .first_page{
-        font-family: "Raleway", sans-serif;
+/*         font-family: "Raleway", sans-serif; */
+           font-family: "Roboto", sans-serif; */
 /*         background-color: hsla(184, 43%, 57%, 0.75); */
-        background-color: #A5D2CA;
+/*         background-color: #A5D2CA; */
+        background-color: #C9E6E1;
         margin:0%;
 }  
 a:link {
@@ -22,7 +25,8 @@ a:active {
 
 .border{
 /*         background-color: hsla(184, 43%, 57%, 0.75); */
-        background-color:  #A5D2CA;
+/*         background-color: #A5D2CA; */
+        background-color: #C9E6E1;
         height: 30px;
         margin:0%;
         color: white;
@@ -37,8 +41,9 @@ a:active {
 
 .main{
 /*         background-color: hsla(184, 43%, 57%, 0.75); */
-        background-color:  #A5D2CA;
-        font-size: 20px;
+/*         background-color: #A5D2CA; */
+        background-color: #C9E6E1;
+        font-size: 18px;
         font-weight: bold;
         color: white;
         text-align: right;
@@ -51,8 +56,9 @@ a:active {
 
 .main_seeMe{
 /*         background-color: hsla(184, 43%, 57%, 0.75); */
-        background-color:  #A5D2CA;
-        font-size: 20px;
+/*         background-color: #A5D2CA; */
+        background-color: #C9E6E1;
+        font-size: 18px;
         font-weight: bold;
         color: white;
         text-align: right;
@@ -69,14 +75,14 @@ a:active {
 }
 
 .name{
-       font-size:60px;
+       font-size:50px;
        font-weight:bold;
        color: white;
        text-align:right;
 }
 
 .class_name{
-       font-size:20px;
+       font-size:18px;
        font-weight:bold;
        color: white;
        text-align:right;
@@ -127,7 +133,8 @@ a.sidebarlink:active{
 
 .buffer {
 /*         background-color: hsla(184, 43%, 57%, 0.75); */
-        background-color:  #A5D2CA;
+/*         background-color: #A5D2CA; */
+        background-color: #C9E6E1;
   min-height: 1000px;
   min-width: 1000px; 
 /*   height:auto;
@@ -138,7 +145,8 @@ a.sidebarlink:active{
 
 .buffer_seeMe {
 /*         background-color: hsla(184, 43%, 57%, 0.75); */
-        background-color:  #A5D2CA;
+/*         background-color: #A5D2CA; */
+        background-color: #C9E6E1;
   min-height:2000px;
   min-width: 1000px; 
 /*   height:auto;
