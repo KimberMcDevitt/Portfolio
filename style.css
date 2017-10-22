@@ -10,18 +10,18 @@
         margin:0%;
 }  
 a:link {
-  color: #CCCCCC;
+  color: Azure;
   text-decoration: none;
 }
 a:visited { 
-  color: #CCCCCC;
+  color: Azure;
   text-decoration: none;
 }
 a:hover {
   color: grey;
 }
 a:active {
-  color: #CCCCCC;
+  color: Azure;
   text-decoration: none;
 }
 
