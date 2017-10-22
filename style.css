@@ -190,7 +190,7 @@ path:hover, path.highlighted {
   fill: #ff8000;
 }
 
-/* hr { 
+hr { 
  display: block;
  margin-top: 0.5em;
  margin-bottom: 0.5em;
@@ -198,7 +198,7 @@ path:hover, path.highlighted {
  margin-right: auto;
  border-style: inset;
  border-width: 2px;
-} */
+}
 
 /* div { */
 /*         border: 1px solid Azure; */
