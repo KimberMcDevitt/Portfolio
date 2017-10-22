@@ -46,6 +46,38 @@ a:active {
 
 }
 
+.main_seeMe{
+/*         background-color: hsla(184, 43%, 57%, 0.75); */
+        font-size: 20px;
+        font-weight: bold;
+        color: white;
+        text-align: right;
+        margin-top: 5%;
+/*         margin-left:15%; */
+        padding: 10px;
+        float: left;
+}
+
+.buffer {
+   background-color: hsla(184, 43%, 57%, 0.75);
+  min-height:2000px;
+  min-width: 1000px; 
+/*   height:auto;
+  width: auto; */
+/*   height: 100%;
+  width: 100%; */
+}
+
+.buffer_seeMe {
+/*    background-color: hsla(184, 43%, 57%, 0.75); */
+  min-height:2000px;
+  min-width: 1000px; 
+/*   height:auto;
+  width: auto; */
+/*   height: 100%;
+  width: 100%; */
+}
+
 .space_div{
         width: 300px;
 }
@@ -107,15 +139,6 @@ a.sidebarlink:active{
   text-decoration: none;
 }
 
-.buffer {
-   background-color: hsla(184, 43%, 57%, 0.75);
-  min-height:2000px;
-  min-width: 1000px; 
-/*   height:auto;
-  width: auto; */
-/*   height: 100%;
-  width: 100%; */
-}
 
 .alt-text{
   color:white;
