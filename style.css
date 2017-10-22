@@ -166,6 +166,11 @@ a.sidebarlink:active{
   height:750px;
 }
 
+.thumb_text{
+  font-size: 10px;
+}
+
+
 body {
   font: 12px sans-serif;
 }
