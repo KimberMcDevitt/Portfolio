@@ -111,8 +111,10 @@ a.sidebarlink:active{
 /*   background-color: hsla(184, 43%, 57%, 0.75); */
 /*   min-height:500px;
   min-width: 1500px; */
-  height:auto;
-  width: auto;
+/*   height:auto;
+  width: auto; */
+  height: 100%;
+  width: 100%;
 }
 
 .alt-text{
