@@ -160,8 +160,11 @@ a.sidebarlink:active{
 .thumbs4{
   color: white;
   float: right;
-  padding: 60px;
-  padding-right: 0px;
+/*   padding: 60px; */
+  padding-top: 60px;      
+  padding-bottom: 1px;
+  padding-left: 60px;      
+  padding-right: 1px;
   width:50px;
   height:750px;
 }
