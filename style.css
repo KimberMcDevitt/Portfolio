@@ -110,7 +110,7 @@ a.sidebarlink:active{
 .buffer {
 /*   background-color: hsla(184, 43%, 57%, 0.75); */
   min-height:500px;
-  min-width: 3000px;
+  min-width: 1500px;
 }
 
 .alt-text{
